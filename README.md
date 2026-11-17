@@ -2,6 +2,8 @@
 
 誰でも学べて、誰でも教えられるオンライン学習プラットフォームの MVP です。
 
+本番化に向けた設計（要件定義・アーキテクチャ・データモデル・API・ロードマップ）は [docs/](./docs/README.md) にあります。
+
 ## 技術スタック
 
 - **Next.js 15** (App Router / Server Components / Server Actions) + TypeScript
